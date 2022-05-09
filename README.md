@@ -1,0 +1,1 @@
+This is my first project under The Odin Project. This webiste is a culmination of the HTML course. Apologies for the bleak UX design.
